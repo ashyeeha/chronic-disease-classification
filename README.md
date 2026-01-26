@@ -19,3 +19,13 @@ The dataset used for this project (`kidney_disease.csv`) is included in this rep
 1. Open `chronic_disease.ipynb`
 2. Run the notebook cells sequentially
 3. Observe the model training and evaluation results
+
+Learning Purpose
+This is a beginner-level machine learning project created to understand the fundamentals of
+classification, data preprocessing, and model evaluation.
+
+Learning Outcomes
+- Understanding classification problems
+- Data preprocessing and handling missing values
+- Training and evaluating ML models
+- Using scikit-learn for model building
