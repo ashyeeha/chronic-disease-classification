@@ -1,31 +1,24 @@
-# Chronic Disease Classification
+# Chronic Disease Machine Learning Projects
 
-This project focuses on predicting chronic diseases using machine learning techniques.
+This repository contains multiple machine learning projects implemented using Python and Jupyter Notebook.  
+The projects focus on applying supervised learning techniques for both **classification** and **regression** problems.
 
-## Problem Type
-Classification
+## Project Structure
+
+- **Classification**
+  - Predicts chronic diseases using patient health data
+  - Includes data preprocessing, feature selection, model training, and evaluation
+
+- **Regression**
+  - Predicts house prices using regression algorithms
+  - Demonstrates data cleaning, feature scaling, model training, and performance evaluation
 
 ## Technologies Used
 - Python
-- Pandas
-- NumPy
-- Scikit-learn
 - Jupyter Notebook
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib / Seaborn
 
-## Dataset
-The dataset used for this project (`kidney_disease.csv`) is included in this repository.
-
-## How to Run the Project
-1. Open `chronic_disease.ipynb`
-2. Run the notebook cells sequentially
-3. Observe the model training and evaluation results
-
-Learning Purpose:
-This is a beginner-level machine learning project created to understand the fundamentals of
-classification, data preprocessing, and model evaluation.
-
-Learning Outcomes:
-- Understanding classification problems
-- Data preprocessing and handling missing values
-- Training and evaluating ML models
-- Using scikit-learn for model building
+Each project folder contains its own README file with detailed explanations.
