@@ -1,4 +1,10 @@
-# Regression Project
+# House Price Prediction using Regression
 
-This folder contains a machine learning regression project focused on house price prediction.  
-The project demonstrates data preprocessing, feature scaling, model training, and evaluation using regression algorithms.
+This project demonstrates the use of machine learning regression algorithms to predict house prices
+based on property features. The workflow includes data cleaning, feature scaling, model training,
+and evaluation of regression performance.
+
+## Key Highlights
+- Supervised regression problem
+- Real-world housing dataset
+- Comparison of multiple regression models
